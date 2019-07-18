@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tailspin6543/Space%20Game%20Pipeline/_apis/build/status/johndavidmarx.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin6543/Space%20Game%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
